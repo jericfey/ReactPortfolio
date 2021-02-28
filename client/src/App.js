@@ -3,6 +3,7 @@ import { Layout, Header, Navigation, Drawer, Content } from "react-mdl";
 import "./App.css";
 import Main from "./components/main";
 import { BrowserRouter as Router, Link } from "react-router-dom";
+import "fontsource-roboto";
 
 
 function App() {
