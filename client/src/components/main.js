@@ -1,5 +1,5 @@
 import React from "react";
-import Home from "./home";
+import Home from "./home/home";
 import { Switch, Route } from "react-router-dom";
 import About from "./about";
 import Projects from "./projects";
