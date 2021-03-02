@@ -93,3 +93,7 @@
   color: white;
   text-align: center;
 }
+
+.projects-grid {
+  display: flex;
+}
