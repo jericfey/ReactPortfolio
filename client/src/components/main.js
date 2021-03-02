@@ -1,9 +1,9 @@
 import React from "react";
 import Home from "./home/home";
 import { Switch, Route } from "react-router-dom";
-import About from "./about";
+import About from "./about/about";
 import Projects from "./projects/projects";
-import Contact from "./contact";
+import Contact from "./contact/contact";
 import Resume from "./resume";
 
 const Main = () => (
