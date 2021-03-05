@@ -39,7 +39,7 @@ This application includes a Title page with clean styling. A portfolio page with
 
 ## Deployment
 
-[Heroku Deployment](#https://enigmatic-bastion-47766.herokuapp.com/)
+Heroku: https://enigmatic-bastion-47766.herokuapp.com/
 
 ![React Portfolio](./client/src/assets/images/ReactPortfolio.png)
 
