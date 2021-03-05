@@ -41,7 +41,6 @@ This application includes a Title page with clean styling. A portfolio page with
 
 [Heroku Deployment](#https://enigmatic-bastion-47766.herokuapp.com/)
 
-Screenshot:
 ![React Portfolio](./client/src/assets/images/ReactPortfolio.png)
 
 ## Functionality:
