@@ -25,24 +25,30 @@ This projects uses React,
 
 ## Installation
 
-If you clone the repository and run 
->npm i
+If you clone the repository and run
+
+> npm i
+
 all required npm packages will be installed. Once installation is complete then start the application with
->npm start
+
+> npm start
 
 ## Usage
 
-This application includes a Title page with clean styling. A portfolio page with application sorting function based on topic (*still in the works). It also has a Contact Me page, About Me and Resume page that renders a PDF. 
+This application includes a Title page with clean styling. A portfolio page with application sorting function based on topic (\*still in the works). It also has a Contact Me page, About Me and Resume page that renders a PDF.
 
 ## Deployment
 
 [Heroku Deployment](#https://enigmatic-bastion-47766.herokuapp.com/)
 
-## Functionality: 
+Screenshot:
+![React Portfolio](./client/src/assets/images/ReactPortfolio.png)
+
+## Functionality:
 
 ### Express Server Routing
 
-### React Router 
+### React Router
 
 ### React-PDF
 
