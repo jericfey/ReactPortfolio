@@ -43,14 +43,6 @@ Heroku: https://enigmatic-bastion-47766.herokuapp.com/
 
 ![React Portfolio](./client/src/assets/images/ReactPortfolio.png)
 
-## Functionality:
-
-### Express Server Routing
-
-### React Router
-
-### React-PDF
-
 ## License
 
 MIT - A short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source. There are many variations of this license in use.
