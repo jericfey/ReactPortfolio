@@ -4,7 +4,7 @@ Personal project portfolio site using React and hosted on Heroku.
 
 ## Description
 
-This projects uses React,
+This projects uses React, React Router, React-PDF and React-mdl.
 
 ## Table of Contents
 
